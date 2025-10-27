@@ -98,4 +98,9 @@ python HandWritten_digit_Classifier.py
 
 
 
-   
+<img width="784" height="627" alt="Screenshot 2025-10-27 170847" src="https://github.com/user-attachments/assets/99bc5182-50e6-4dd6-8166-bb283db15099" />
+<img width="545" height="433" alt="Screenshot 2025-10-27 171021" src="https://github.com/user-attachments/assets/50e82b2b-4408-4ff5-8fbc-6d57792bef7a" />
+<img width="1504" height="634" alt="Screenshot 2025-10-27 171008" src="https://github.com/user-attachments/assets/b92643f8-84f0-4fdc-9f8b-c2a51b084957" />
+<img width="984" height="775" alt="Screenshot 2025-10-27 170941" src="https://github.com/user-attachments/assets/1976c2ad-9713-40a5-9784-dfe99637e0c4" />
+<img width="781" height="469" alt="Screenshot 2025-10-27 170904" src="https://github.com/user-attachments/assets/ffdd21bb-d0ad-4c73-8228-3c8a5f61d179" />
+
